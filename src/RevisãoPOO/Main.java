@@ -17,7 +17,7 @@ public class Main {
         String ChamandoMetodo = Sneaky_Ninja.EuSouUmNinja();
         System.out.println(ChamandoMetodo);
 
-        int tempo_restante = Sneaky_Ninja.AnosParaSerNinja(60);
+        int tempo_restante = Sneaky_Ninja.AnosParaSerNinja(50);
         System.out.println("Você tem " + Sneaky_Ninja.age + " anos então faltam no minímo " + tempo_restante + " anos para se tornar ninja");
 
         // criando outro objeto
