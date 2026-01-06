@@ -6,3 +6,5 @@ public class Larusso extends Cobra_kai{
         System.out.println("O meu nome é " + name + " e eu sou um larusso");
     }
 }
+
+// teste YOLO
