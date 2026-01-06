@@ -1,4 +1,4 @@
-package Herança;
+package NivelIntermediario;
 
 public class Lawrance extends Cobra_kai{
 

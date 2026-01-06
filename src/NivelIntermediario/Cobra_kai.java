@@ -1,4 +1,4 @@
-package Herança;
+package NivelIntermediario;
 
 public class Cobra_kai {
     String name;

@@ -1,4 +1,4 @@
-package Herança;
+package NivelIntermediario;
 
 public class Diaz extends Cobra_kai{
 

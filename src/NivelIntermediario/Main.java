@@ -1,4 +1,4 @@
-package Herança;
+package NivelIntermediario;
 
 public class Main {
     public static void main(String[] args) {
@@ -31,6 +31,23 @@ public class Main {
         Miguel.age = 17;
         Miguel.village = "Vale";
         Miguel.Diaz();
+
+        // objeto 5
+        Axel Axel = new Axel();
+        Axel.name = "Axel";
+        Axel.age = 17;
+        Axel.village = "Rússia";
+        Axel.Axel();
+
+        // objeto 6
+        Mathew Mathew = new Mathew();
+        Mathew.name = "Mathew Larusso Diaz";
+        Mathew.age = 13;
+        Mathew.village = "Nova Jersey";
+
+        Mathew.Diaz();
+        Mathew.DarumChute();
+        Mathew.Darumsoco();
 
 
 
